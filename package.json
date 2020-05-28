@@ -1,0 +1,12 @@
+{
+    "name": "xb2_node",
+    "version": "3.0.0",
+    "description": "共联智能化模块测试项目",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "共联罗方挺",
+    "license": "ISC"
+}
