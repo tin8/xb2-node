@@ -1,2 +1,2 @@
-const gljt = "hello ~ 共联";
+const gljt = "hello GL ~ 你好共联";
 console.log(gljt);
